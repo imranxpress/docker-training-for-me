@@ -56,6 +56,3 @@ docker-compose logs -f --tail 100
 3. grafana.DOMAIN: grafana dashboard
 
 **Step7:** config grafana service for view all log on Explore menu
-
-## License
-[DockerMe.ir](https://dockerme.ir)
