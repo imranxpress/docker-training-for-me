@@ -3,7 +3,7 @@
 
 Using Docker Compose to setup a redis cluster with sentinel.
 
-This project is inspired by the project of [https://github.com/mdevilliers/docker-rediscluster][1]
+
 
 ## Prerequisite
 
