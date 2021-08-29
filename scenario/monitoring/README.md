@@ -65,6 +65,3 @@ docker-compose logs -f --tail 100
 4. grafana.DOMAIN: grafana dashboard
 
 **Step7:** config grafana service for view all metric on visualize dashboard
-
-## License
-[DockerMe.ir](https://dockerme.ir)
